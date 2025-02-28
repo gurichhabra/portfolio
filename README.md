@@ -31,4 +31,4 @@ portfolio-website/
 ## 📬 Contact  
 **GitHub:** [@gurichhabra](https://github.com/gurichhabra)  
 **Email:** gurpreetsinghchhabra23@gmail.com  
-**Portfolio Link:** [Hosted on AWS S3](#) *(Replace with actual URL)*  
+**Portfolio Link:** [Hosted on AWS S3](https://portfoliogurpreet.s3.ap-south-1.amazonaws.com/index.html) 
